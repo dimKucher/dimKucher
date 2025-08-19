@@ -1,6 +1,5 @@
 <h1 align="left">Hello World, I'm Dmitrii</h1>
-<h3 align="right">a Python backend-developer 🖥️</h3>
-
+<h3 align="left">a Python backend-developer 🖥️</h3>
 <p>
 
 [//]: # (  <a href="https://github.com/dimKucher">)
@@ -14,8 +13,8 @@
   </a>
 </p>
 
----
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js)](https://skillicons.dev)
+---
 ### 🚀 About Me
 ```python
 class Developer:
