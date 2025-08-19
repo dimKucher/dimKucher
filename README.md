@@ -1,10 +1,10 @@
-<h1 align="center">Hello World, I'm Dmitrii</h1>
-<h3 align="center">A Python developer 🖥️</h3>
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js)](https://skillicons.dev)
-<p align="center">
+<h1 align="left">Hello World, I'm Dmitrii</h1>
+<h3 align="right">a Python backend-developer 🖥️</h3>
+
+<p>
 
 [//]: # (  <a href="https://github.com/dimKucher">)
-[//]: # (    <img src="https://komarev.com/ghpvc/?username=dimKucher&color=blue&style=flat" alt="dimKucher" />)
+[//]: # (  <img src="https://komarev.com/ghpvc/?username=dimKucher&color=blue&style=flat" alt="dimKucher" />)
 [//]: # (  </a>)
   <a href="https://t.me/dimkucher_python">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js)](https://skillicons.dev)
 ### 🚀 About Me
 ```python
 class Developer:
