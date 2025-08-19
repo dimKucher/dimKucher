@@ -38,7 +38,7 @@ me = Developer()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimKucher&layout=compact&theme=radical&hide_border=true)](https://github.com/dimKucher)
 
 ### 🛠️ My Tech Stack
-
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js,html,css)](https://skillicons.dev)
 #### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
