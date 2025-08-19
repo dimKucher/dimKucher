@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Dmitrii</h1>
 <h3 align="center">A Python developer 🖥️</h3>
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js)](https://skillicons.dev)
 <p align="center">
 
 [//]: # (  <a href="https://github.com/dimKucher">)
