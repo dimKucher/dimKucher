@@ -37,7 +37,7 @@ class Developer:
 
 me = Developer()
 ```
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js,django,celery,docker,git,linux,vue,bootstrap,elasticsearch,vscode,pycharm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,postgres,redis,nginx,js,django,docker,git,linux,vue,bootstrap,elasticsearch,vscode,pycharm&perline=8)](https://skillicons.dev)
 
 ## 🛠️ My Tech Stack
 
