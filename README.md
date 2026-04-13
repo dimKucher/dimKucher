@@ -5,12 +5,6 @@
 [//]: # (  <a href="https://github.com/dimKucher">)
 [//]: # (  <img src="https://komarev.com/ghpvc/?username=dimKucher&color=blue&style=flat" alt="dimKucher" />)
 [//]: # (  </a>)
-  <a href="https://t.me/dimkucher_python">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:dim.kucher.backend.python@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
